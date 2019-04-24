@@ -1,1 +1,1 @@
-# WordpressClient
+# Ionic WordpressClient
